@@ -1,4 +1,4 @@
-# Arthéstic
+# Arthéstic - App 
 
 <br><b>I have deleted google-services.json. Add yours</b>
 
