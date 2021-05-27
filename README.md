@@ -1,4 +1,4 @@
-# InstagramApp
+# Arthéstic
 
 <br><b>I have deleted google-services.json. Add yours</b>
 
